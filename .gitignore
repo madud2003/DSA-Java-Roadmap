@@ -1,0 +1,14 @@
+
+# Java compiled files
+*.class
+
+# Temporary VS Code / runner files
+tempCodeRunnerFile.java
+.cph/
+
+# macOS files
+.DS_Store
+__MACOSX/
+
+# IDE folders
+.idea/
